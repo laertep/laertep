@@ -1,6 +1,6 @@
 ## Sou Laerte Porto Júnior
 
-- 🔭 Trabalho como Analista em Infraestrutura - Atualmente atuando como Suporte N2 - JFGO
+- 🔭 Atuo como Analista em Infraestrutura - Atualmente atuando como Suporte N2 - JFGO
 - 🌱 Estudando DEVOPS - migração de carreira
 
 <div align="center">
