@@ -1,7 +1,7 @@
 ## Sou Laerte Porto Júnior
 
 - 🔭 Atuo como Analista em Infraestrutura - Atualmente atuando como Suporte N2 - JFGO
-- 🌱 Estudando DEVOPS (Vagrant, Ansible, Docker) - migração de carreira
+- 🌱 Estudando CLOUD/DEVOPS (Vagrant, Ansible, Docker) - migração de carreira
 
 <div align="center">
   <a href="https://github.com/laertep">
