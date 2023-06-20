@@ -1,6 +1,6 @@
 ## Sou Laerte Porto Júnior
 
-- 🔭 Atuo como Analista em Infraestrutura - Atualmente atuando como Suporte N2 - JFGO
+- 🔭 Atuo como Analista em Infraestrutura - Atualmente atuando como Analista de TI - Grupo Avilages
 - 🌱 Estudando CLOUD (Certificações Azure) - DEVOPS (Vagrant, Ansible, Docker, Terraform, GitHub, Linux) - migração de carreira
 
 <div align="center">
